@@ -1,6 +1,38 @@
-class Person {
+class person{
     constructor() {
-        console.log('I am a constructor')
+        console.log("I am constractor");
     }
 }
-const person1 = new Person();
+
+new person();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// class Person {
+//     constructor() {
+//         console.log('I am a constructor')
+//     }
+// }
+// const person1 = new Person();
